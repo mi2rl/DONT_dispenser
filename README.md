@@ -1,5 +1,4 @@
-</div>
-<p align="center"><img src='MI2RL_logo" src="https://user-images.githubusercontent.com/55417425/77146652-e4a44700-6ace-11ea-9e69-3d38b3f35392.png' width="440" height="150"></p>
+<img width="871" alt="MI2RL_logo" src="https://user-images.githubusercontent.com/55417425/77146652-e4a44700-6ace-11ea-9e69-3d38b3f35392.png">
 <br>
 
 # DONT_dispenser
