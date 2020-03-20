@@ -61,7 +61,10 @@
      * 5V핀으로 출력하여 외부모듈에 전기를 공급하실 때 100mA보다 작은 전류를 권장합니다.
      * USB로 전원공급을 하실 때 전류가 100mA를 넘으시면 다이오드가 탈수가 있습니다.
    * 타당성/합리성
-     * [의료기관 내부에서의 손 소독 프로토콜](http://www.koshic.org/related)
+     * 의료기관 내부에서의 손 소독 프로토콜 
+      ![image](https://user-images.githubusercontent.com/42925197/77128036-0501e080-6a92-11ea-95b0-d44aaafe9b44.png)
+
+     [출처](http://www.koshic.org/related)
        * 누군가 어떤 손으로 만졌을지 모르는 손 세정제의 펌프를 눌러야..
 
 5. Contributer
