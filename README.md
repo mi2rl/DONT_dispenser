@@ -69,7 +69,7 @@
       
        
 ## 5. 세부 부품 구성 및 가격(구매 시 링크를 누르세요)
-    * [[OEM] 초음파 거리센서 모듈 HC-SR04 [SZH-EK004] 1,300원 x 1개](http://www.devicemart.co.kr/goods/view?no=1076851)
+   * [[OEM] 초음파 거리센서 모듈 HC-SR04 [SZH-EK004] 1,300원 x 1개](http://www.devicemart.co.kr/goods/view?no=1076851)
 
    * [[SMG] 아두이노 나노 호환보드 CH340 [SZH-EK025] 4,000원 x 1개](http://www.devicemart.co.kr/goods/view?no=1342039)
 
