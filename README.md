@@ -8,7 +8,7 @@
 * [데모동영상 링크](https://youtu.be/2AqtVSnK7Oo)
 
 
-## 1. NEWS(20.03.19): DONT_dispenser ver 0.4
+## 1. NEWS(20.03.19): DONT Push Dispenser ver 0.4
 
    * 이 장치는 [DONT/WASH](https://github.com/mi2rl/DONT)에 이어서, 사람들이 손세정제를 사용할때 누르는 부분에서 생길수 있는 교차감염을 줄일수 있도록 비접촉으로 손세정제를 사용할수 있도록 개발되었습니다.
    * TODO:(향후할일)
