@@ -1,3 +1,12 @@
+<div style="width:40px;height:30px;float:right;">
+    <p align="right"><a href="https://github.com/mi2rl/DONT/blob/master/README_ENG.md"><img src='./imgs/america.png' width="40" height="30"></a></p>
+</div>
+<div style="width:40px;height:30px;float:right;">
+    <p align="right"><a href="https://github.com/mi2rl/DONT/blob/master/README.md"><img src='./imgs/korea.png' width="40" height="30"></a></p>
+</div>
+<p align="center"><img src='./imgs/MI2RL_logo.png' width="440" height="150"></p>
+<br>
+
 # DONT_dispenser
 
 ### 손 세정제 손으로 누르지 마세요!
