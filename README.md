@@ -65,10 +65,8 @@
        * 누군가 어떤 손으로 만졌을지 모르는 손 세정제의 펌프를 눌러야..
       
        
-## 5. 세부 부품 구성 및 가격(구매 시 링크를 넣으세요)
- * **총 부품 가격 11,000원으로 장치를 구성할 수 있습니다.**
-   
-   * [[OEM] 초음파 거리센서 모듈 HC-SR04 [SZH-EK004] 1,300원 x 1개](http://www.devicemart.co.kr/goods/view?no=1076851)
+## 5. 세부 부품 구성 및 가격(구매 시 링크를 누르세요)
+    * [[OEM] 초음파 거리센서 모듈 HC-SR04 [SZH-EK004] 1,300원 x 1개](http://www.devicemart.co.kr/goods/view?no=1076851)
 
    * [[SMG] 아두이노 나노 호환보드 CH340 [SZH-EK025] 4,000원 x 1개](http://www.devicemart.co.kr/goods/view?no=1342039)
 
@@ -80,12 +78,14 @@
 
    * [[KEYES] 4종 점퍼와이어 키트 65PCS/SET [OR0012] 2,000원 x 1개](http://www.devicemart.co.kr/goods/view?no=1329628)
 
+* **총 부품 가격 11,000원으로 장치를 구성할 수 있습니다.**
+
 
 ## 6. Contributer
 
    
    * 회로 구성 및 프로그램 작성
-     * 최준명([jm5901@gmail.com](mailto:jm5901@gmail.com)), 박주영(godoctorsam@gmail.com)
+     * 최준명([jm5901@gmail.com](mailto:jm5901@gmail.com)), 박주영(godoctorsam@gmail.com)   
    * 하우징 제작
      * 홍다영(dyhong.89@gmail.com)
    * 기획 및 총괄
