@@ -78,9 +78,9 @@
 
    * [[SMG] Snap - 단자 9V DC플러그 타입 [SZH-BH010] 500원 x 1개](http://www.devicemart.co.kr/goods/view?no=1323045)
 
-   * [[OEM] 컬러 미니 브레드보드 170핀 600원 x 1개](http://www.devicemart.co.kr/goods/view?no=13295046. )
+   * [[OEM] 컬러 미니 브레드보드 170핀 600원 x 1개](http://www.devicemart.co.kr/goods/view?no=1329504)
 
-   * [[KEYES] 4종 점퍼와이어 키트 65PCS/SET [OR0012] 2,000원 x 1개](http://www.devicemart.co.kr/goods/view?no=1329504)
+   * [[KEYES] 4종 점퍼와이어 키트 65PCS/SET [OR0012] 2,000원 x 1개](http://www.devicemart.co.kr/goods/view?no=1329628)
 
       * 총 부품 가격 **11,000원**으로 장치를 구성할 수 있습니다.
 
