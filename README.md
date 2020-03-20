@@ -65,7 +65,7 @@
      
      ![image](https://user-images.githubusercontent.com/42925197/77128036-0501e080-6a92-11ea-95b0-d44aaafe9b44.png)
        * 누군가 어떤 손으로 만졌을지 모르는 손 세정제의 펌프를 눌러야..
-       [이미지 출처](http://www.koshic.org/related)
+       [이미지 출처](http://www.koshic.org)
        
 
 5. Contributer
