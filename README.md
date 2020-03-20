@@ -67,8 +67,24 @@
        * 누군가 어떤 손으로 만졌을지 모르는 손 세정제의 펌프를 눌러야..
        [이미지 출처](http://www.koshic.org)
        
+5. 세부 부품 구성 및 가격
+   ---
 
-5. Contributer
+   i.[[OEM] 초음파 거리센서 모듈 HC-SR04 [SZH-EK004] 1,300원 x 1개](http://www.devicemart.co.kr/goods/view?no=10768512.)
+
+   ii.[[SMG] 아두이노 나노 호환보드 CH340 [SZH-EK025] 4,000원 x 1개](http://www.devicemart.co.kr/goods/view?no=13420393.)
+
+   iii.[[SMG] TowerPro 호환 9g 미니 서보모터 SG-90 1,300원 x  2개](http://www.devicemart.co.kr/goods/view?no=11284214. )
+
+   iv.[[SMG] Snap - 단자 9V DC플러그 타입 [SZH-BH010] 500원 x 1개](http://www.devicemart.co.kr/goods/view?no=13230455. )
+
+   v.[[OEM] 컬러 미니 브레드보드 170핀 600원 x 1개](http://www.devicemart.co.kr/goods/view?no=13295046. )
+
+   vi.[[KEYES] 4종 점퍼와이어 키트 65PCS/SET [OR0012] 2,000원 x 1개](http://www.devicemart.co.kr/goods/view?no=1329628)
+
+      * 총 부품 가격 **11,000원**으로 장치를 구성할 수 있습니다.
+
+6. Contributer
 
    ---
 
