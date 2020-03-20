@@ -27,7 +27,7 @@
 ## 2. 회로 구성하기
 
    * 아래의 이미지를 참조하여 해당되는 포트에 점프선을 연결합니다.
-   ![image](https://user-images.githubusercontent.com/42925197/77140035-8cb01500-6abb-11ea-9048-f1e29c4f7285.png)
+<img width="900" alt="Circuit" src="https://user-images.githubusercontent.com/55417425/77146927-8b88e300-6acf-11ea-9d17-d67da54c015c.png">
 
 ## 3. 사용 방법
 
