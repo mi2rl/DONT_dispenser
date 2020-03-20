@@ -72,6 +72,6 @@
    * 회로 구성 및 프로그램 작성
      * 최준명([jm5901@gmail.com](mailto:jm5901@gmail.com)), 박주영(godoctorsam@gmail.com)
    * 하우징 제작
-     * 홍다영()
+     * 홍다영(dyhong.89@gmail.com)
    * 기획 및 총괄
      * 김남국([namkugkim@gmail.com](mailto:namkugkim@gmail.com))
