@@ -42,7 +42,6 @@
    
 
 ## 4. 세부사항
-![image](https://user-images.githubusercontent.com/62414626/77511750-17768280-6eb5-11ea-9605-9ebbde4a1d85.png)
 
 
    * 보드 환경
