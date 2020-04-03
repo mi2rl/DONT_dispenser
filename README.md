@@ -7,7 +7,8 @@
 * 이 장치는 아두이노 나노의 호환보드인 CH340과 초음파 센서, sg90 서보모터 두개를 이용하여 제작하였습니다.
 * [데모동영상 링크](https://youtu.be/2AqtVSnK7Oo)
 
-# 보드 환경 및 타당성/합리성
+
+## 보드 환경 및 타당성/합리성
 
    * 보드 환경
      * 14개 디지털 입력/출력 핀 TX,RX,D2~D13
@@ -28,6 +29,7 @@
      
      ![image](https://user-images.githubusercontent.com/42925197/77137204-4903de00-6ab0-11ea-937e-0cba5ad5ad16.png)
        * 누군가 어떤 손으로 만졌을지 모르는 손 세정제의 펌프를 눌러야..
+
 
 ## 1. NEWS(20.03.19): DONT Push Dispenser ver 0.4
 
