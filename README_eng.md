@@ -44,7 +44,8 @@
 ![](https://user-images.githubusercontent.com/42925197/77137204-4903de00-6ab0-11ea-937e-0cba5ad5ad16.png)
 
 
-  * <u>Alcohol rub is recommended and necessary to reduce the cross contamination  especially for health workers or for the people entering the public space, but the surface of the pump could've been contaminated with (many people) and can possibly increase the risk of infection.</u>
+  * <u> Alcohol rub is recommended and necessary to reduce the cross contamination  especially for health workers or for the people entering the public space, but the surface of the pump could've been contaminated with (many people) and can possibly increase the risk of infection. Automatic pump are used to decrease the possiblity of those risks. This project shares the way of making 'DIY' auto-pumping hand sanitizer.  </u>
+ 
 
 
 
