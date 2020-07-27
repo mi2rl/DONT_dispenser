@@ -20,12 +20,12 @@
 
 * Setting
 
-  - for digital input/output TX, RX, D2~D13 : 14 pin
-  - for analog input A0~A7: 8 pin
-  0 Atmel Atmega328P-AU 
-  -  Support **USB upload and power supply** as well as  **external power supply(DC 5V~12V)**
+  - for digital input/output TX, RX, D2~D13 : 14 pin  
+  - for analog input A0~A7: 8 pin  
+  - Atmel Atmega328P-AU 
+  - Support **USB upload and power supply** as well as  **external power supply(DC 5V~12V)**
   - Use 5V-pin for 3.3V ~ 5.5V supply and use VIN-pin for 6V ~ 12V
-  -  Lower than 100 milliamperes(mA) of current is recommended when supply power to the external module using 5V pin
+    - Lower than 100 milliamperes(mA) of current is recommended when supply power to the external module using 5V pin
   - **Warning** :  Diode can be burnt with higher than 100mA, when using USB port power supply
   
 * Parts needed
