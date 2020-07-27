@@ -76,12 +76,12 @@
   5. Open "DONT_dispenser.ino" and upload the **file** to Arduino with "Ctrl +u"  
   6. Unconnect the USB line with PC and connect the 9V battery to the device.
 * Run the device
-  * If the hand approaches within 12cm from the ultrasould 센서?, the device will automatically pump the sanitizer.
+  * If the hand approaches within 12cm from the ultrasould sensor, the device will automatically pump the sanitizer.
   * [How to wash hand properly?](https://www.youtube.com/watch?v=4O0zkBQTgvI)
 
 
 ## 4. Project Contributers
- * Juyoung Park
+ * Ju Young Park(godoctorsam@gmail.com)
  * Junmyeong Choi
- * NamKug Kim
+ * Namkug Kim(namkugkim@gmail.com)
  
