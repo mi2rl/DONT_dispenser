@@ -81,8 +81,10 @@
 
 
 ## 4. Project Contributers
- * Ju Young Park(godoctorsam@gmail.com)
- * Da Young Hong(dyhong.89@gmail.com)
- * Junmyeong Choi
- * Namkug Kim(namkugkim@gmail.com)
+ * Circuit design and programming
+    * Ju Young Park(godoctorsam@gmail.com), Dr.Junmyeong Choi
+ * Housing
+    * Da Young Hong(dyhong.89@gmail.com)
+ *  General Management
+    * Prof.Namkug Kim(namkugkim@gmail.com)
  
