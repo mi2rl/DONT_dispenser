@@ -6,6 +6,8 @@
 
 
 
+[한국어 버전](https://github.com/mi2rl/DONT_dispenser)
+
 # DONT push the dispenser
 * DONT push the dispenser, AVOID the chance of cross-contamination. 
 * Since we understand that, as engineers, it is our responsibility to put our knowledge to overcome the difficulties of our community and society, especially in the era of global pandemic(COVID-19), we developed this "non-contact type, " "automated" pumping device for hand-sanitizer. This project is a contribution of Medical Imaging and Intelligent Reality Lab in Asan Medical Center(AMC-MI2RL) in Seoul, Korea.
