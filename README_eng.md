@@ -82,6 +82,7 @@
 
 ## 4. Project Contributers
  * Ju Young Park(godoctorsam@gmail.com)
+ * Da Young Hong(dyhong.89@gmail.com)
  * Junmyeong Choi
  * Namkug Kim(namkugkim@gmail.com)
  
