@@ -76,7 +76,7 @@
   3. Connect the devices like the image above
   4. After finishing  the primary setting of Arduino IDE.
   5. Open "DONT_dispenser.ino" and upload the **file** to Arduino with "Ctrl +u"  
-  6. Disconnect the USB line with PC and connect the 9V battery to the device.
+  6. Disconnect the USB line with the PC and connect the 9V battery to the device.
 * Run the device
   * If the hand approaches within 12cm from the ultrasound sensor, the device will automatically pump the sanitizer.
   * [How to wash hand properly?](https://www.youtube.com/watch?v=4O0zkBQTgvI)
