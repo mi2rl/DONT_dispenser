@@ -25,8 +25,8 @@
   - Atmel Atmega328P-AU 
   - Support **USB upload and power supply** as well as  **external power supply(DC 5V~12V)**
   - Use 5V-pin for 3.3V ~ 5.5V supply and use VIN-pin for 6V ~ 12V
-    - Lower than 100 milliamperes(mA) of current is recommended when supply power to the external module using 5V pin
-  - **Warning** :  Diode can be burnt with higher than 100mA, when using USB port power supply
+    - When supplying power to the external module using 5Vpin, we recommend **lower than 100 milliamperes(mA) of current**
+  - **Warning** :  **The diode can be burnt with the current higher than 100mA when using USB port power supply.**
   
 * Parts needed
 
