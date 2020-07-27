@@ -42,13 +42,14 @@
   
 * Rationale 
 
-  * Have you ever worried about the possible contamination of pushing the surface of pump of the dispenser, when using hand sanitizer?
-  * For whomever feared about potential exposure to contaminations  through public hand sanitizers
 
 ![](https://user-images.githubusercontent.com/42925197/77137204-4903de00-6ab0-11ea-937e-0cba5ad5ad16.png)
+  * When using the hand-sanitizers in public spaces, we are often exposed to a risk of touching the surface which nobody knows who touches.
+  * For whoever feared about potential exposure to contaminations through publicly used hand-sanitizers, this will be quite helpful.
 
 
-  * <u> Alcohol rub is recommended and necessary to reduce the cross contamination  especially for health workers or for the people entering the public space, but the surface of the pump could've been contaminated with (many people) and can possibly increase the risk of infection. Automatic pump are used to decrease the possiblity of those risks. This project shares the way of making 'DIY' auto-pumping hand sanitizer.  </u>
+
+  * <u> It is recommended to rub hands with hand-sanitizers containing alcohol, especially for health workers or for the people entering the public space. The pump's surface could have been contaminated with many people and can possibly increase the risk of infection. Automatic pumps are used to decrease the possibility of those risks. This project shares the way of making 'DIY' auto-pumping hand sanitizer.  </u>
  
 
 
