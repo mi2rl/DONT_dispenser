@@ -1,6 +1,8 @@
 <img width="871" alt="MI2RL_logo" src="https://user-images.githubusercontent.com/55417425/77146652-e4a44700-6ace-11ea-9e69-3d38b3f35392.png">
 <br>
 
+[English Ver.](https://github.com/mi2rl/DONT_dispenser/blob/master/README_eng.md)
+
 # 손 세정제, 손으로 누르지 마세요! (DONT Push Dispenser)
 
 * 이 프로그램은 세계적으로 대유행인 코로나-19(SARS-CoV-2)를 극복하기 위해 서울아산병원의 MI2RL 연구실에서 개발하였습니다.
